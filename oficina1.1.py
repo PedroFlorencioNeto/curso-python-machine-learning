@@ -56,7 +56,7 @@ print('\nQuestão 2\nExiste música mediana de Rock? {}'.format(any(list(filter(
 
 # 3. Qual gênero musical teve uma maior quantidade de músicas boas?
 
-if qtde_boas_pop > qtde_boas_rock: print('\nQuestão 3\n Tem mais músicas boas de Rock')
-else: print('\nQuestão 3\n Tem mais músicas boas de Rock')
+if qtde_boas_pop > qtde_boas_rock: print('\nQuestão 3\n Tem mais músicas boas de Rock\n')
+else: print('\nQuestão 3\n Tem mais músicas boas de Rock\n')
 
 # ------------------------------------------------------------------------------------ #
